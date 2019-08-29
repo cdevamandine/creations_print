@@ -1,4 +1,5 @@
 Hy! Welcome ...
+
 # to my repository  about my creation.
 
 Passionate about the world of visual communication.
@@ -10,7 +11,7 @@ I propose here some creations that can inspire mayby other person and discover a
 I am at your disposal if you need help, advice or any other information.
 
 
-See you soon.
+See you soon. **Amandine**
 
-( to contact me: @dev-amandine on twitter ;) )
+# ( to contact me: @dev-amandine on twitter ;) )
 
