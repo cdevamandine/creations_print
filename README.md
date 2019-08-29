@@ -1,7 +1,5 @@
-
-# Hello and welcome to my repositerie about my creation
-
-
+Hy! Welcome ...
+# to my repository  about my creation.
 
 Passionate about the world of visual communication.
 
