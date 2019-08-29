@@ -1,6 +1,6 @@
-Hy! Welcome ...
+Hy! Welcome to...
 
-# to my repository  about my creation.
+# my repository  about my creation.
 
 Passionate about the world of visual communication.
 
