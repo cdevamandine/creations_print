@@ -13,5 +13,5 @@ I am at your disposal if you need help, advice or any other information.
 
 See you soon. **Amandine**
 
-# ( to contact me: @dev_amandine on twitter ;) )
+
 
